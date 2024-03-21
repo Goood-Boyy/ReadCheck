@@ -4,7 +4,7 @@
 
 <p id="description">Tic-Tac-Toe which lets you play and also keep track of all the previous moves and helps you navigate to previous steps in case of any mutual conflict.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&amp;logo=React" alt="shields"><img src="https://img.shields.io/badge/Vite-red?style=for-the-badge&amp;logo=Vite" alt="shields"></p>
+<p align="center" style="padding-right:5px;"><img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&amp;logo=React" alt="shields"><img src="https://img.shields.io/badge/Vite-red?style=for-the-badge&amp;logo=Vite" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
 
